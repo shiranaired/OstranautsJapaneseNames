@@ -1,0 +1,10 @@
+[
+  {
+    "strName": "Japanese Names",
+    "strAuthor": "tama",
+    "strModURL": "https://bluebottlegames.com/games/ostranauts",
+    "strGameVersion": "0.14.2.7",
+    "strModVersion": "1.0",
+    "strNotes": "This adds 417 Japanese first names and 203 Japanese last names to Ostranauts. Names are sourced from https://behindthename.com, https://surnames.behindthename.com, and personal knowledge. Permissions for usage granted by Mike Campbell (mike@behindthename.com)"
+  }
+]
